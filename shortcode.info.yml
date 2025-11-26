@@ -1,7 +1,7 @@
 name: 'Shortcode'
 type: module
 description: 'Provides ShortCodes filter framework and API (like WP ShortCodes)'
-core_version_requirement: ^9.3 || ^10
+core_version_requirement: ^9.3 || ^10 || ^11
 dependencies:
   - drupal:filter
 package: 'Input filters'
